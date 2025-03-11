@@ -14,7 +14,7 @@
     - [x] Allez voir les plugins de `Ohmyzsh`
 - [x] Création de compte Github
 - [x] Brancher son terminal en SSH avec Github
-- [ ] Installation et configuration de Git
+- [x] Installation et configuration de Git
 - [ ] Comprendre le versionning
 - [ ] Comprendre le fonctionnement de Git
   - [ ] Comprendre le staging de Git
