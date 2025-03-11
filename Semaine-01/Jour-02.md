@@ -3,16 +3,16 @@
 ### Mardi 11/03/2025
 
 ### Github :
-- [ ] Atelier Profils Github
+- [x] Atelier Profils Github
 
 ### Terminal et Git :
-- [ ] Pimper son terminal : 
-    - [ ] Installation de `ZSH`
-    - [ ] Installation de `Ohmyzsh`
-    - [ ] configuration de `ZSH` comme shell par défaut
-    - [ ] Installation et configuration de `Powelevel 10K`
-    - [ ] Allez voir les plugins de `Ohmyzsh`
-- [ ] Création de compte Github
+- [x] Pimper son terminal : 
+    - [x] Installation de `ZSH`
+    - [x] Installation de `Ohmyzsh`
+    - [x] configuration de `ZSH` comme shell par défaut
+    - [x] Installation et configuration de `Powelevel 10K`
+    - [x] Allez voir les plugins de `Ohmyzsh`
+- [x] Création de compte Github
 - [ ] Brancher son terminal en SSH avec Github
 - [ ] Installation et configuration de Git
 - [ ] Comprendre le versionning
