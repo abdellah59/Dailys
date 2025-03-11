@@ -6,7 +6,7 @@
 - [ ] Atelier Profils Github
 
 ### Terminal et Git :
-- [ ] Pimper son terminal : 
+- [x] Pimper son terminal : 
     - [ ] Installation de `ZSH`
     - [ ] Installation de `Ohmyzsh`
     - [ ] configuration de `ZSH` comme shell par défaut
