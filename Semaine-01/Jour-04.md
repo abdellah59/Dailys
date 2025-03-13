@@ -18,7 +18,7 @@
     - [x] Citations
     - [x] Tableaux
     - [x] Liens
-  - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+  - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 
 ### Productivité :
 - [ ] Comprendre l'intérêt des raccourcis clavier
