@@ -15,10 +15,17 @@
 - [x] Configuration de son environnement de travail
   - [x] Mise à jour OS (Linux, Windows, Mac)
   - [x] Installation (Discord)
+<<<<<<< HEAD
   - [x] Installation navigateur (Developper Edition)
   - [x] Création et configuration Mail pro
   - [x] Création et configuration Linkedin
   - [x] Installation Linux ou WSL sur Windows
+=======
+  - [ ] Installation navigateur (Developper Edition)
+  - [ ] Création et configuration Mail pro
+  - [ ] Création et configuration Linkedin
+  - [ ] Installation Linux ou WSL sur Windows
+>>>>>>> b9b7e0cbf2e78911a48d7f0281984dec23ecfed2
 
 ### Terminal :
 - [x] Découverte du Terminal :
