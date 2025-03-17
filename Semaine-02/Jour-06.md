@@ -11,18 +11,18 @@
 - [x] Comprendre le fonctionnement des branches dans Git :
     - [x] Lister, changer, créer, supprimer des branches
     - [x] Quelle est la différence entre `Git switch` et `Git checkout`
-- [ ] Comprendre le merge dans Git
-    - [ ] Comprendre le "fast forward"
-    - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
-- [ ] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
-    - [ ] À quoi sert la commande `git fetch —prune`
-    - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
-- [ ] Configurer son git : 
-  - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+- [x] Comprendre le merge dans Git
+    - [x] Comprendre le "fast forward"
+    - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [x] `.gitignore` global ou pas ?
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
+    - [x] À quoi sert la commande `git fetch —prune`
+    - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
+- [x] Configurer son git : 
+  - [x] Editeur 
+  - [x] Différenciateur (par ex : Delta) 
+  - [x] Aliases 
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### Outils
 
