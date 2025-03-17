@@ -26,7 +26,7 @@
 
 ### Outils
 
-- [ ] Découverte de LazyGit
+- [x] Découverte de LazyGit
   - [ ] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   - [ ] Faire le tour du propriétaire
