@@ -11,8 +11,8 @@
 - [x] Découverte de Github CLI
   - [x] Installation et connexion
   - [x] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+  - [x] Intégration de `gh` dans son workflow
+  - [x] Finalisation de son profile Github
 
 ### NodeJS
 
