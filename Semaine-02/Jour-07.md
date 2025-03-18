@@ -4,13 +4,13 @@
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
+- [x] Découvrir Gitflow
 
 ### Github
 
-- [ ] Découverte de Github CLI
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
+- [x] Découverte de Github CLI
+  - [x] Installation et connexion
+  - [x] Faire le tour du propriétaire
   - [ ] Intégration de `gh` dans son workflow
   - [ ] Finalisation de son profile Github
 
@@ -27,4 +27,3 @@
 ### Travail de groupe
 
 - [ ] Commencer le brief "Collaboration pour la rédaction de Cheat Sheets"
-
