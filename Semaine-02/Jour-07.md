@@ -26,4 +26,4 @@
 
 ### Travail de groupe
 
-- [ ] Commencer le brief "Collaboration pour la rédaction de Cheat Sheets"
+- [x] Commencer le brief "Collaboration pour la rédaction de Cheat Sheets"
