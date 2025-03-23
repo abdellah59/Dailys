@@ -4,8 +4,8 @@
 
 ### Brief : Collaboration pour la rédaction de Cheat Sheets
 
-- [ ] Poursuivre le travail sur le brief
-- [ ] Mettre en pratique Git et GitHub dans un contexte collaboratif
+- [X] Poursuivre le travail sur le brief
+- [x] Mettre en pratique Git et GitHub dans un contexte collaboratif
 
 ### Déploiement
 
