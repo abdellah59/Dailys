@@ -9,5 +9,5 @@
 
 ### Déploiement
 
-- [ ] Découvrir les options pour déployer une documentation technique
-  - [ ] GitHub Pages
+- [x] Découvrir les options pour déployer une documentation technique
+  - [x] GitHub Pages
