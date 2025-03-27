@@ -10,9 +10,9 @@
     - [x] Wireframe
     - [x] Mockup
     - [x] Maquette
-- [ ] Choix d'un outil de maquettage
-- [ ] Cadrer la demande client
-- [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+- [x] Choix d'un outil de maquettage
+- [x] Cadrer la demande client
+- [x] Découvrir les règles ergonomiques et d'expérience utilisateur
 
 ### HTML :
 
