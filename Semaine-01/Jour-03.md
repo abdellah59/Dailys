@@ -9,4 +9,4 @@
 - [ ] Établir sa connexion en SSH avec Github
 - [ ] Faire ses premiers commits sur les daily objectives
 - [ ] Forker le repository des daily-objectives
-  - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
