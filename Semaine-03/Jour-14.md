@@ -11,5 +11,5 @@
 
 ### Remédiation possible
 
-- [ ] HTML : Structure de base, balises sémantiques
-- [ ] Tableaux et formulaires HTML
+- [x] HTML : Structure de base, balises sémantiques
+- [x] Tableaux et formulaires HTML
