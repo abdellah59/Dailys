@@ -4,7 +4,7 @@
 
 ### CSS - Révisions et approfondissement
 
-- [ ] Revoir et approfondir les notions importantes de CSS : 
+- [x] Revoir et approfondir les notions importantes de CSS : 
   - [ ] Box model
   - [ ] Positionnement (relatif, absolu, fixed et sticky)
   - [ ] Combinateurs (`>`, `+`, etc…)
