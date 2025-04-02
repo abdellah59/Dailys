@@ -4,8 +4,6 @@
 
 ### Brief 
 
-- [ ] Finaliser les wireframes de son brief
-
 ### Sass
 
 - [ ] Découverte des préprocesseurs CSS :
