@@ -9,4 +9,4 @@
   - [x] Positionnement (relatif, absolu, fixed et sticky)
   - [x] Combinateurs (`>`, `+`, etc…)
   - [x] Cascade, Héritage, Spécificité
-  - [ ] Flexbox (application pratique des concepts vus précédemment)
+  - [x] Flexbox (application pratique des concepts vus précédemment)
