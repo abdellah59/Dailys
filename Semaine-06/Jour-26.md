@@ -4,19 +4,19 @@
 
 ### Brief "Baby Pics" - Polissage et optimisation
 
-- [ ] Réviser et optimiser le code SASS
-  - [ ] Vérifier la structure 7-1 et la cohérence
-  - [ ] Améliorer la lisibilité et la maintenance
+- [x] Réviser et optimiser le code SASS
+  - [x] Vérifier la structure 7-1 et la cohérence
+  - [x] Améliorer la lisibilité et la maintenance
 
-- [ ] Finaliser l'interface utilisateur
-  - [ ] Polir les détails visuels (alignements, espacements)
-  - [ ] Assurer la cohérence graphique sur l'ensemble du site
+- [x] Finaliser l'interface utilisateur
+  - [x] Polir les détails visuels (alignements, espacements)
+  - [x] Assurer la cohérence graphique sur l'ensemble du site
 
-- [ ] Optimiser les performances
-  - [ ] Optimiser les images et le CSS
-  - [ ] Effectuer des tests de chargement
+- [x] Optimiser les performances
+  - [x] Optimiser les images et le CSS
+  - [x] Effectuer des tests de chargement
 
-- [ ] Tester et valider
-  - [ ] Réaliser des tests cross-browser
-  - [ ] Vérifier la fonctionnalité (liens, formulaire)
-  - [ ] Obtenir un feedback externe 
+- [x] Tester et valider
+  - [x] Réaliser des tests cross-browser
+  - [x] Vérifier la fonctionnalité (liens, formulaire)
+  - [x] Obtenir un feedback externe 
