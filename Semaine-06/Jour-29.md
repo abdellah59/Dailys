@@ -4,14 +4,14 @@
 
 ### Brief "Baby Pics" - Préparation des livrables
 
-- [ ] Finaliser l'ensemble des pages et fonctionnalités
-  - [ ] Dernière revue du site complet
-  - [ ] Corrections finales
+- [x] Finaliser l'ensemble des pages et fonctionnalités
+  - [x] Dernière revue du site complet
+  - [x] Corrections finales
 
-- [ ] Préparer le projet pour la présentation
-  - [ ] Organiser les fichiers du projet
-  - [ ] Compiler le code SASS
+- [x] Préparer le projet pour la présentation
+  - [x] Organiser les fichiers du projet
+  - [x] Compiler le code SASS
 
-- [ ] Préparer une courte démonstration
-  - [ ] Identifier les points clés à montrer
-  - [ ] S'entraîner à présenter le projet 
+- [x] Préparer une courte démonstration
+  - [x] Identifier les points clés à montrer
+  - [x] S'entraîner à présenter le projet 
